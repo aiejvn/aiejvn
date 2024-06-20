@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! 👋
 
 - 🤖 AI/ML and Cybersecurity Enthousiast
 - 👍 Current Hobby: Learning French
