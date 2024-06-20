@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-🤖 AI/ML and Cybersecurity Enthousiast
-👍 Current Hobby: Learning French
-🛠️ Current Project(s): Automated Stock Prediction Bot
+- 🤖 AI/ML and Cybersecurity Enthousiast
+- 👍 Current Hobby: Learning French
+- 🛠️ Current Project(s): Automated Stock Prediction Bot
 
 <!--
 **aiejvn/aiejvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
