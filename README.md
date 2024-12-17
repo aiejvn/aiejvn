@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-- 🤖 AI/ML and Cybersecurity Enthousiast
+- 🤖 AI/ML Researcher
 - 👍 Current Hobby: Learning French
 - 🛠️ Current Project(s): Automated Stock Prediction Bot
 
