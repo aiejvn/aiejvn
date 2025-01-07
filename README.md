@@ -1,8 +1,11 @@
 ## Hi there! 👋
 
-- 🤖 AI/ML Researcher
-- 👍 Current Hobby: Learning French
-- 🛠️ Current Project(s): Automated Stock Prediction Bot
+I'm Kevin, and I'm ...
+
+- 🤖 a passionate AI/ML Researcher
+- 🌱 currently learning DSA & French
+- 🛠️ currently working on [https://github.com/aiejvn/translatera](translatera)
+- 📫 reachable on discord (@dem4701)
 
 <!--
 **aiejvn/aiejvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
