@@ -4,7 +4,7 @@ I'm Kevin, and I'm ...
 
 - 🤖 a passionate AI/ML Researcher
 - 🌱 currently learning DSA & French
-- 🛠️ currently working on [translatera](https://github.com/aiejvn/translatera)
+- 🛠️ currently working on [CUCAI 2025](https://cucai.ca/) and [translatera](https://github.com/aiejvn/translatera)
 - 📫 reachable on discord (@dem4701)
 
 <!--
