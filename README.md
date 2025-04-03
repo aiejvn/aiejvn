@@ -4,7 +4,7 @@ I'm Kevin, and I'm ...
 
 - 🤖 a passionate AI/ML Researcher
 - 🌱 currently learning DSA & French
-- 🛠️ currently working on [CUCAI 2025](https://cucai.ca/) 
+- 🛠️ currently working on [Sharpe](https://github.com/aiejvn/sharpe-assistant)
 - 📫 reachable on discord (@dem4701)
 
 <!--
