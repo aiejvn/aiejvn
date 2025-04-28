@@ -4,7 +4,7 @@ I'm Kevin, and I'm ...
 
 - 🤖 a passionate AI/ML Researcher
 - 🌱 currently learning DSA & French
-- 🛠️ currently working on [Sharpe](https://github.com/aiejvn/sharpe-assistant)
+- 🛠️ currently working on [Sharpe](https://github.com/aiejvn/sharpe-assistant) and [The Best Self Collective](https://github.com/queens-web-development-club/ws25t02-thebestselfcollective/tree/back-end/test)
 - 📫 reachable on discord (@dem4701)
 
 <!--
